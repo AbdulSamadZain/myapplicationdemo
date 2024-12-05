@@ -4,7 +4,7 @@
 title = My Calculator Application
 
 # (str) Package name
-package.name = My Calculator Application
+package.name = MyCalculatorApplication
 
 # (str) Package domain (needed for android/ios packaging)
 package.domain = org.test
